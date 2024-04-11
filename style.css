@@ -7,10 +7,10 @@
 }
 
 :root{
-        --bege: #ffb4a2;
+        --bege: #611300;
         --begeclaro: #864c3e83;
-        --salmao: #e5989b;
-        --escuro: #b5838d;
+        --salmao: #923b3e;
+        --escuro: #cf1238;
         --branco: #f5f5f5;
         --fonte-texto: "Amatic SC", sans-serif;
         --fonte-titulo: "Oswald", sans-serif;
@@ -62,5 +62,36 @@
     width: 25%;
 
 }
+.estudante-div-fotos{
+    width: 25%;
+}  ;
+.estudante-div-icone{
+    width: 30px;
+}
+.estudante-div{
+    text-align: center;
+}
+.estudante{
+    background: -o-linear-gradient(#2b2b2b83);
+} ;
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+    font-family: var(--fonte-titulo);
+    color: var(-- azul);
+    font-size: 2em;
+ }
+.estudante-todos{
+    display: gr
+    grid-template-columns:20% 20% 20% 20% 20%;
+} 
+.estudante-div-nome{
+    margin: 8px 0;
+    font-family: var ();
+
+}
+
+
+
 
 
